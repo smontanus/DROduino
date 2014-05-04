@@ -1,0 +1,22 @@
+DROduino
+--------
+DROduino is a prototype Digital ReadOut (DRO) system designed specifically for the
+Taig Mini-Lathe. It is based on the Arduino UNO development board and utilizes high
+resolution encoders to capture tool movement.
+
+Author
+------
+Stephen S. Montanus
+email: smont3780@gmail.com
+
+License
+-------
+Creative Commons Attribution-ShareAlike 4.0 International Public License
+(See LICENSE)
+
+Files
+-----
+DROduino_v1_0.ino      Arduino sketch for reading and displaying rotary encoder data.
+DROduino_v1.sch        Eagle schematic file.
+DROduino_v1.brd        Eagle PCB board file.
+DROduino_v1.0.fzz      Fritzing file
