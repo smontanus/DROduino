@@ -1,16 +1,19 @@
 /*
  ================== DROduino v1.0 =====================
- ...need desrciption 
+ DROduino is a prototype Digital ReadOut (DRO) system designed specifically for the
+ Taig Mini-Lathe. It is based on the Arduino UNO development board and utilizes high
+ resolution encoders to capture tool movement. 
  
  A special thanks to Dr. Rainer Hessmer for quadrature encoder code 
  adapted for this project. His blog entry with code and explanation
  can be found at:
  http://www.hessmer.org/blog/2011/01/30/quadrature-encoder-too-fast-for-arduino/
  
- ...need license info
+ DROduino by Stephen S. Montanus is licensed under a 
+ Creative Commons Attribution-ShareAlike 4.0 International License.
 */
 
-// include the library code:
+// include the LCD library code:
   #include <LiquidCrystal.h>
 
 // initialize the library with the numbers of the Arduino interface pins
